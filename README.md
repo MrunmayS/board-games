@@ -1,5 +1,5 @@
-## board-games
+# board-games
 It contains a dice and coin toss in python.
-# What I learnt:
- -Using random
- -If/Else statements
+## What I learnt:
+ *Using random
+ *If/Else statements
