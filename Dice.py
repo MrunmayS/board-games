@@ -1,8 +1,6 @@
 import random
-ans = input('So you want roll a dice?\nAnswer in Y/N:')
-if ans == "Y":
+ans = int(input('So you want roll a dice?\nHow many dice/s you want to throw?:'))
+for _ in range(1, ans + 1):
     num = random.randint(1, 6)
     print(num)
-else:
-    exit()
 input()
