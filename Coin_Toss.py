@@ -6,7 +6,5 @@ if ask == 'Y':
         print('Heads!!')
     else:
         print('Tails!!')
-    input()
 else:
-    input()
     exit()
